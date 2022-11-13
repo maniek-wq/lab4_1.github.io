@@ -16,7 +16,7 @@
 .underContainer{
     width:30%;
     height:75%;
-    background-image: url('img/Szczecin_Waly.jpg');
+    background-image: url('../img/Szczecin_Waly.jpg');
     display:flex;
     align-items: center;
     justify-content: center;
@@ -50,7 +50,7 @@ button{
 .konter{
     background-color: rgb(149, 243, 9);
     height:103%;
-    background-image: url('img/Cloud.jpg');
+    background-image: url('../img/Cloud.jpg');
 }
 
 .puzzleSolver{
@@ -60,7 +60,7 @@ button{
     background-color: lightblue;
     justify-content: center;
     display: flex;
-    background-image: url('img/Woodland-Camo.jpg');
+    background-image: url('../img/Woodland-Camo.jpg');
     border:solid 2px black;
    
 }
