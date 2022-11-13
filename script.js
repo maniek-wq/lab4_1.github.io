@@ -136,7 +136,7 @@ function dragEnd() {
 
   var rast = document.getElementById("Raster");
   function res(){
-  var zut = "../img/Przechwytywanie.png",
+  var zut = url("../img/Przechwytywanie.png"),
   imageBounds = [[53.451375, 14.481461], [53.444142,14.503412]];
   L.imageOverlay(zut, imageBounds).addTo(map);
   }
